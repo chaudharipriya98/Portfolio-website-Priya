@@ -1,0 +1,26 @@
+h1{
+    color:black;
+    font-size: medium;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#h1-top{
+    font-style: italic;
+    text-align: left;
+    border: thin solid black;
+    /*margin-top: 100px, */
+    /* margin-left: 100px;*/
+    padding: 20px;
+}
+
+body{
+    background-image:url("./Background_image.jpg");
+    background-size: cover   ;
+    background-position: center;
+
+}
+
+
+.flex-container {
+    display: flex;
+}
